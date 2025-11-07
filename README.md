@@ -187,7 +187,7 @@ COVID19-Data-Prediction/
 | **Atharv Sampat Shinde**    | 124B1F029 | Machine Learning & Visualization        |
 | **Ashutosh Sanjay More**    | 124B1F036 | Backend Integration & Reporting         |
 
-**Guided by:** *Mrs. Radha Deoghare Ma’am — Course Coordinator*
+**Guided by:** *Mrs. Radha Deoghare — Course Coordinator*
 **Department of Information Technology, PCCOE**
 
 ---
@@ -212,10 +212,9 @@ By combining analytical rigor with intuitive design, the **COVID-19 India Dashbo
 
 ### 💖 Made with Passion & Purpose
 
-> “Turning Data into Decisions — One Dashboard at a Time.”
+<img width="978" height="1027" alt="image" src="https://github.com/user-attachments/assets/2739e16a-94df-4f12-ba45-434705352095" />
+<img width="978" height="903" alt="image" src="https://github.com/user-attachments/assets/1a3b1746-0301-495a-a114-e74c9c90133c" />
+<img width="978" height="1116" alt="image" src="https://github.com/user-attachments/assets/014ebb14-31d2-4958-a116-cfc5b5d29a6b" />
+Report Drive Link:https://drive.google.com/file/d/1pChQYEnZoq0kjrMiekXp3vF9j0QpMiLY/view?usp=drive_link
 
-```
 
----
-I can generate that next for your README visual polish.
-```
